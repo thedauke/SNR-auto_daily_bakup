@@ -1,4 +1,4 @@
-#use it with cron on linux
+# use it with cron on linux
 
 on vty of SNR
 
