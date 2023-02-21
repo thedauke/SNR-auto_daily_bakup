@@ -35,7 +35,7 @@ for device in devices:
             time.sleep(5)
             tryloop=tryloop+1
             if tryloop==10:
-                print("something wrong :( I was tried to connect to the device 10 times, no results then ")
+                print("something wrong :( I tried to connect to the device 10 times, no results then ")
                 connected = True
 
     # Connect to the device over SSH
