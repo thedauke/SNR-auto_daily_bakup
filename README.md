@@ -1,9 +1,10 @@
 #use it with cron on linux
 
 on vty of SNR
-* add user for script 
+1)add user for script 
 username backup privilege 3 password 0 mystrongpassword
-* add to privilege lvl 3 to exec sh run
+
+2)add to privilege lvl 3 to exec sh run
 privilege exec level 3 sh run
 
 ------------------------------------------------------------------------------------------------------------------
