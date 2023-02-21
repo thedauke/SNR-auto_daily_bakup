@@ -3,9 +3,11 @@
 on vty of SNR
 
 1)add user for script 
+
 username backup privilege 3 password 0 mystrongpassword
 
 2)add to privilege lvl 3 to exec sh run
+
 privilege exec level 3 sh run
 
 ------------------------------------------------------------------------------------------------------------------
